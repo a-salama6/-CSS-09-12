@@ -1,0 +1,28 @@
+/* قم بعمل ثلاث عناصر نوعهم Div
+قم بوضع الثلاث عناصر بجانب بعضهم وبدون تحديد عرض لهم
+قم بعمل نفس الشكل الموجود في المثال بنفس الألوان
+حجم كل حافة من الحواف هو 5px */
+div {
+  background-color: #857f7f;
+  padding: 10px;
+  display: inline-block;
+  margin-right: auto;
+  margin-left: auto;
+  outline: 5px black solid;
+  width: 25%;
+  text-align: center;
+}
+.shape1 {
+  border-color: red green blue yellow;
+  border-style: dotted;
+  border-width: 5px;
+}
+
+.shape2 {
+  border-color: blue green;
+  border-style: solid;
+  border-width: 5px;
+}
+.shape3 {
+  border: red solid 5px;
+}

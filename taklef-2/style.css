@@ -1,0 +1,22 @@
+.element-element-1 {
+  padding: 5px;
+  background-color: #eee;
+  border-left: #af4d4d 5px solid;
+  height: 20px;
+  margin-bottom: 5px;
+}
+.element-element-2 {
+  padding: 5px;
+  background-color: #eee;
+  border-left: #7fffd4 5px solid;
+  height: 20px;
+  margin-bottom: 5px;
+  visibility: hidden;
+}
+.element-element-3 {
+  padding: 5px;
+  background-color: #eee;
+  border-left: #2e6955 5px solid;
+  height: 20px;
+  margin-bottom: 5px;
+}
